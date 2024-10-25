@@ -1,6 +1,6 @@
 import javascript
 
-from Function test
+from Function f
 where
-test.getNumLines() > 10 
-select test, "Function is longer than 10 lines"
+  f.getNumLines() > 10
+select f, "Function is longer than 10 lines"
